@@ -34,7 +34,7 @@ Projeto autoral pensado para representar minha evolucao como dev e reunir projet
 ## Stack principal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,angular,tailwind,nodejs,sql,nestjs,py,java" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,angular,tailwind,nodejs,nestjs,py,java" alt="tech stack" />
 </div>
 
 ## Estatisticas

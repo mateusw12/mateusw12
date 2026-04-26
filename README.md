@@ -74,15 +74,10 @@ Projeto autoral pensado para representar minha evolucao como dev e reunir projet
 
 <p align="center">
   <a href="https://github.com/mateusw12" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="28" height="28" />
   </a>
-  <a href="https://www.linkedin.com/in/mateusw12" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/mateusw12" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-  <a href="https://www.instagram.com/mateusw12" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/mateus-walz-b40866137/" target="_blank">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="28" height="28" />
   </a>
 </p>

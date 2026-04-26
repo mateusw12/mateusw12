@@ -74,10 +74,10 @@ Projeto autoral pensado para representar minha evolucao como dev e reunir projet
 
 <p align="center">
   <a href="https://github.com/mateusw12" target="_blank">
-    <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="28" height="28" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="34" height="34" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/mateus-walz-b40866137/" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="28" height="28" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="34" height="34" />
   </a>
 </p>

@@ -1,37 +1,51 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">Mateus W12</h1>
 
-###
+<p align="center">
+  Front-end Developer focado em criar experiencias modernas, performaticas e acessiveis.
+</p>
+
+<p align="center">
+  <a href="https://github.com/mateusw12/Site-Portifolio">Portfolio</a> •
+  <a href="https://github.com/mateusw12/nasa-app">Nasa App</a> •
+  <a href="https://github.com/mateusw12/covid-dashboard">Covid Dashboard</a>
+</p>
+
+---
+
+## Sobre mim
+
+- Construo interfaces com foco em UX, performance e responsividade.
+- Tenho base forte em TypeScript, React, Next.js e ecossistema moderno de front-end.
+- Gosto de transformar ideias em produtos com identidade visual, animacoes fluidas e codigo escalavel.
+
+## Projeto em destaque: Site-Portifolio
+
+Projeto autoral pensado para representar minha evolucao como dev e reunir projetos reais da minha jornada.
+
+### O que esse projeto demonstra
+
+- Arquitetura front-end moderna com React + TypeScript + Vite.
+- UI componentizada com Tailwind CSS, Shadcn UI e Radix.
+- Formularios robustos com React Hook Form + Zod.
+- Integracao de dados assincronos com React Query + Axios.
+- Motion e interatividade com Framer Motion.
+- Experiencia completa com tema dark/light e layout 100% responsivo.
+
+## Stack principal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,vite,graphql,nestjs,go,rust,py,aws" alt="tech stack" />
 </div>
 
-###
+## Estatisticas
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mateusw12&show_icons=true&theme=transparent&hide_border=true" alt="github stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusw12&layout=compact&theme=transparent&hide_border=true" alt="top languages" />
 </div>
 
-###
+## Onde me encontrar
+
+<p align="left">
+  Se quiser trocar ideia sobre front-end, produto ou colaboracoes, me chama por aqui no GitHub.
+</p>

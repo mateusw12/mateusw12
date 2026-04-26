@@ -72,6 +72,17 @@ Projeto autoral pensado para representar minha evolucao como dev e reunir projet
 
 ## Onde me encontrar
 
-<p align="left">
-  Se quiser trocar ideia sobre front-end, produto ou colaboracoes, me chama por aqui no GitHub.
+<p align="center">
+  <a href="https://github.com/mateusw12" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/mateusw12" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/mateusw12" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="https://www.instagram.com/mateusw12" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 </p>

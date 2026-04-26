@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/mateusw12/Site-Portifolio">Portfolio</a> •
-  <a href="https://github.com/mateusw12/nasa-app">Nasa App</a> •
-  <a href="https://github.com/mateusw12/covid-dashboard">Covid Dashboard</a>
+  <a href="https://mateus-walz.vercel.app/">Portfolio</a> •
+  <a href="https://nasa-app-psi.vercel.app/">Nasa App</a> •
+  <a href="https://covid-dashboard-pink.vercel.app/en-US/dashboard">Covid Dashboard</a>
 </p>
 
 ---

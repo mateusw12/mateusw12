@@ -57,6 +57,7 @@ Projeto autoral pensado para representar minha evolucao como dev e reunir projet
 ## Metricas de perfil
 
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mateusw12&style=for-the-badge&color=2563eb" alt="profile visitors" />
   <img src="https://img.shields.io/github/followers/mateusw12?style=for-the-badge&logo=github" alt="followers" />
   <img src="https://img.shields.io/github/stars/mateusw12?style=for-the-badge&logo=github" alt="total stars" />
   <img src="https://img.shields.io/github/last-commit/mateusw12/Site-Portifolio?style=for-the-badge&logo=git" alt="last commit portfolio" />

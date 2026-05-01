@@ -1,7 +1,7 @@
-<h1 align="center">Mateus W12</h1>
+<h1 align="center">Mateus Walz</h1>
 
 <p align="center">
-  Front-end Developer focado em criar experiencias modernas, performaticas e acessiveis.
+  Full Stack Developer com foco principal em Front-end, criando experiencias modernas, performaticas e acessiveis.
 </p>
 
 <p align="center">

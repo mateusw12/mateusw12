@@ -7,7 +7,8 @@
 <p align="center">
   <a href="https://mateus-walz.vercel.app/">Portfolio</a> •
   <a href="https://nasa-app-psi.vercel.app/">Nasa App</a> •
-  <a href="https://covid-dashboard-pink.vercel.app/en-US/dashboard">Covid Dashboard</a>
+  <a href="https://covid-dashboard-pink.vercel.app/en-US/dashboard">Covid Dashboard</a> •
+  <a href='https://open-weather-orcin.vercel.app/'>Open Weather</a>
 </p>
 
 ---
